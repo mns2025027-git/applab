@@ -1,0 +1,11 @@
+1. Write a menu driven program for performing stack operations such a PUSH, POP,
+finding top of the stack.
+2. Implement stack operations as in program 1 using singly linked list instead of array.
+3. Write a C Program to implement Queue using an array. The program should be
+menu-driven, with the option to enqueue, and dequeue, to check whether the queue is
+empty or full, traverse, and exit based on the user's choice.
+4. Write a C Program to implement Circular Queue using an array. The program should be
+menu-driven, with the option to enqueue, and dequeue, to check whether the queue is
+empty or full, traverse, and exit based on the user's choice.
+5. Implement Circular Queue and perform operations on it using doubly circular linked list
+instead of array.

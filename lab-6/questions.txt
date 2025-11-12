@@ -1,0 +1,11 @@
+1. Write a menu-based program for creation, insertion at beginning, at end or at given
+location, deletion from beginning, from end or from given location, and traversing of
+singly circular linked list.
+
+2. Write a menu-based program for creation, insertion at beginning, at end or at given
+location, deletion from beginning, from end or from given location, and traversing of
+doubly linked list.
+
+3. Write a menu-based program for creation, insertion at beginning, at end or at given
+location, deletion from beginning, from end or from given location, and traversing of
+doubly circular linked list.
